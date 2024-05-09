@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hey, I'm Jason Cook Developer Audience GBB at Microsoft 👋
+
+This is my personal Github profile and where I keep some of my pet projects.  Head over to  [Lantern Cloud Services](https://github.com/Lantern-Cloud-Services) to check out the things I'm working on professionally! 🌟
+
+## Connect with me
+- [LinkedIn]([https://www.linkedin.com/in/jacobsomer](https://www.linkedin.com/in/jason-cook-4486b61/)
 
 <!--
 **jdvcDev/jdvcDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
