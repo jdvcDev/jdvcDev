@@ -1,6 +1,8 @@
-# Hey, I'm Jason Cook Developer Audience GBB at Microsoft 👋
+# Hey, I'm Jason Cook Software Solution Engineer Global BlackBelt at Microsoft 👋
 
-This is my personal Github profile and where I keep some of my pet projects.  Head over to  [Lantern Cloud Services](https://github.com/Lantern-Cloud-Services) to check out the things I'm working on professionally! 🌟
+This is my personal Github profile and where I keep some of my pet projects.  
+
+Check out my [portfolio page](https://jasoncook.dev/) or head over to [Lantern Cloud Services](https://github.com/Lantern-Cloud-Services) to check out the things I'm working on professionally! 🌟
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/jason-cook-4486b61/)
